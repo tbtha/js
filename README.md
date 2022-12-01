@@ -62,5 +62,15 @@ node js
     para empezar nuestro proyecto, abirmos la consola y nos ubicamos donde queremos crear nuestra carpeta(en windows ls es dir) luego ejecutamos npx create-react-app name-app
     luego nos ubicamos en cd name-app
     y ejecutamos npm start 
-    
+    https://es.reactjs.org/docs/create-a-new-react-app.html#create-react-app
+
+abrimos la carpeta y vscode y nos apareceran varias carpetas
+public -> para archivos estaticos
+scr -> donde estara nuestro codigo fuente
+
+
+
+
 ~~~
+
+
