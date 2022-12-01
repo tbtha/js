@@ -59,6 +59,8 @@ node js
     npx  descarga en una carpeta temporal y lo ejecuta 
     
     
-    para empezar nuestro proyecto, abirmos la consola y ejecutamos npx create-react-app my-app
+    para empezar nuestro proyecto, abirmos la consola y nos ubicamos donde queremos crear nuestra carpeta(en windows ls es dir) luego ejecutamos npx create-react-app name-app
+    luego nos ubicamos en cd name-app
+    y ejecutamos npm start 
     
 ~~~
