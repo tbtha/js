@@ -95,7 +95,7 @@ function App() {
     </div>
   );
 }
-
+**** CREAR COMPONENTES FUERA DE OTROS COMPONENTES (DEBEN ESTAR SEPARADOS)
 
 extensiones : ESLint / Error Lens
 ~~~
