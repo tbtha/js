@@ -96,7 +96,7 @@ function App() {
   );
 }
 **** CREAR COMPONENTES FUERA DE OTROS COMPONENTES (DEBEN ESTAR SEPARADOS)
-**** Publicar app en github pages
+**** Publicar app en github pages https://www.freecodecamp.org/espanol/news/impletacion-de-una-aplicacion-react-en-github-pages/
 
 extensiones : ESLint / Error Lens
 ~~~
