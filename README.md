@@ -10,7 +10,7 @@ var : podemos acceder desde fuera de un scope
  ~~~
 
 ### Tipos de datos
-## primitivos (que son inmutables, no se pueden cambiar los valores, cuando le aplicamos un metodo como toUpperCase(para ponerlo en mayuscula) lo que hace el metodo es devolver un nuevo string con el cambio )
+###### primitivos (que son inmutables, no se pueden cambiar los valores, cuando le aplicamos un metodo como toUpperCase(para ponerlo en mayuscula) lo que hace el metodo es devolver un nuevo string con el cambio )
 ~~~
 string
 numericos
@@ -70,8 +70,34 @@ public -> para archivos estaticos
 scr -> donde estara nuestro codigo fuente
 
 
+componenentes1
+
+function App() {
+  const mensaje = "mundo2"
+  return (
+    <div className="App">
+     hola {mensaje}
+    </div>
+  );
+}
+
+componentes 2 
+const Mensaje2 = () => {
+return <h1> hola mundo</h1>
+}
+
+function App() {
+  const mensaje = "mundo2"
+  return (
+    <div className="App">
+     hola {mensaje}
+     <Mensaje2 />
+    </div>
+  );
+}
 
 
+extensiones : ESLint / Error Lens
 ~~~
 
 
