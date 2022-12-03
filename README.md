@@ -96,6 +96,7 @@ function App() {
   );
 }
 **** CREAR COMPONENTES FUERA DE OTROS COMPONENTES (DEBEN ESTAR SEPARADOS)
+**** Publicar app en github pages
 
 extensiones : ESLint / Error Lens
 ~~~
